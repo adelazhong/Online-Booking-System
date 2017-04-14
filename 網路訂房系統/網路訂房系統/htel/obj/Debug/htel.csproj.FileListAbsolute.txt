@@ -1,0 +1,55 @@
+D:\htel\htel\bin\htel.dll
+D:\htel\htel\bin\htel.pdb
+D:\htel\htel\obj\Debug\htel.dll
+D:\htel\htel\obj\Debug\htel.pdb
+D:\final\htel\htel\bin\htel.dll
+D:\final\htel\htel\bin\htel.pdb
+D:\final\htel\htel\obj\Debug\htel.dll
+D:\final\htel\htel\obj\Debug\htel.pdb
+D:\final2\htel\htel\bin\htel.dll
+D:\final2\htel\htel\bin\htel.pdb
+D:\final2\htel\htel\obj\Debug\htel.dll
+D:\final2\htel\htel\obj\Debug\htel.pdb
+D:\final2 - 複製\htel\htel\bin\htel.dll
+D:\final2 - 複製\htel\htel\bin\htel.pdb
+D:\final2 - 複製\htel\htel\obj\Debug\htel.dll
+D:\final2 - 複製\htel\htel\obj\Debug\htel.pdb
+D:\final3 - 複製\htel\htel\bin\htel.dll
+D:\final3 - 複製\htel\htel\bin\htel.pdb
+D:\final3 - 複製\htel\htel\obj\Debug\htel.dll
+D:\final3 - 複製\htel\htel\obj\Debug\htel.pdb
+C:\final3\htel\htel\bin\htel.dll
+C:\final3\htel\htel\bin\htel.pdb
+C:\final3\htel\htel\obj\Debug\htel.dll
+C:\final3\htel\htel\obj\Debug\htel.pdb
+C:\final3\htel\htel\obj\Debug\htel.csprojResolveAssemblyReference.cache
+D:\final4\htel\htel\bin\htel.dll
+D:\final4\htel\htel\bin\htel.pdb
+D:\final4\htel\htel\obj\Debug\htel.csprojResolveAssemblyReference.cache
+D:\final4\htel\htel\obj\Debug\htel.dll
+D:\final4\htel\htel\obj\Debug\htel.pdb
+C:\final4\htel\htel\bin\htel.dll
+C:\final4\htel\htel\bin\htel.pdb
+C:\final4\htel\htel\obj\Debug\htel.csprojResolveAssemblyReference.cache
+C:\final4\htel\htel\obj\Debug\htel.dll
+C:\final4\htel\htel\obj\Debug\htel.pdb
+D:\final5\htel\htel\bin\htel.dll
+D:\final5\htel\htel\bin\htel.pdb
+D:\final5\htel\htel\obj\Debug\htel.csprojResolveAssemblyReference.cache
+D:\final5\htel\htel\obj\Debug\htel.dll
+D:\final5\htel\htel\obj\Debug\htel.pdb
+D:\final6\htel\htel\bin\htel.dll
+D:\final6\htel\htel\bin\htel.pdb
+D:\final6\htel\htel\obj\Debug\htel.csprojResolveAssemblyReference.cache
+D:\final6\htel\htel\obj\Debug\htel.dll
+D:\final6\htel\htel\obj\Debug\htel.pdb
+D:\final7\htel\htel\bin\htel.dll
+D:\final7\htel\htel\bin\htel.pdb
+D:\final7\htel\htel\obj\Debug\htel.csprojResolveAssemblyReference.cache
+D:\final7\htel\htel\obj\Debug\htel.dll
+D:\final7\htel\htel\obj\Debug\htel.pdb
+D:\final8\htel\htel\bin\htel.dll
+D:\final8\htel\htel\bin\htel.pdb
+D:\final8\htel\htel\obj\Debug\htel.csprojResolveAssemblyReference.cache
+D:\final8\htel\htel\obj\Debug\htel.dll
+D:\final8\htel\htel\obj\Debug\htel.pdb
